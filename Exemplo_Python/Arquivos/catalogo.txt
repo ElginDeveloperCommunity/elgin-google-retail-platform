@@ -1,0 +1,26 @@
+{
+	"ts": "20230726174400",
+	"rows": [
+		{
+			"default_product_id": "100",
+			"default_product_name": "Camisa Preta",
+			"default_sku_id": "325",
+			"default_sku": "XS001-M",
+			"default_product_sku": "XXX",
+			"default_category": "Mulher > Roupa > Camiseta",
+			"default_status": "Faturado",
+			"default_ean": "7898960921267",
+			"default_description": "Camisa preta com manga curta",
+			"default_brand": "Balmain",
+			"default_manufacturer": "Balmain LTDA",
+			"default_stock_quantity": 10,
+			"default_list_price": 453.22,
+			"default_price": 399.99,
+			"default_width": "150",
+			"default_height": "150",
+			"default_weight_net": "0,5",
+			"default_price_id": "625",
+			"default_stock_id": "525"
+		}
+	]
+}

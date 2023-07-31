@@ -1,0 +1,1 @@
+{"debugLog":false,"ambienteDev":true,"validadeToken":24,"urlDev":"https://stg-api.napp.solutions/","urlProd":"https://prod-api.napp.solutions/","endpointLogin":"login","endpointVenda":"public/receiver/order","endpointCatalogo":"public/receiver/product"}

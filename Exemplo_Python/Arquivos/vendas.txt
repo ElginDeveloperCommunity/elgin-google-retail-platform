@@ -1,0 +1,35 @@
+{
+        "ts": "20230726174400",
+        "rows": [
+            {
+                "default_order_id": "325",
+                "default_order_number": "00001",
+                "default_date": "2022-05-01 14:23:33",
+                "default_total_amount": 100.00,
+                "default_subtotal_amount": 100.00,
+                "default_discount_amount": 0.00,
+                "default_shipping_amount": 0.00,
+                "default_status": "Faturado",
+                "default_salesperson_id": "123",
+                "default_salesperson_code": "X381A",
+                "default_shipping_type": "SEDEX",
+                "default_payment_id": "432",
+                "default_payment_type": "Boleto / Cartão de Crédito",
+                "default_payment_installments": "1",
+                "default_invoice_number": "29393",
+                "items": [
+                    {
+                        "default_item_id": "432",
+                        "default_item_sku": "A1202",
+                        "default_item_ean": "7898960921267",
+                        "default_item_name": "Camisa Preta",
+                        "default_item_quantity": 1,
+                        "default_item_list_price_amount": 100.00,
+                        "default_item_price_amount": 100.00,
+                        "default_item_discount_amount": 0,
+                        "default_item_status": "Faturado"
+                    }
+                ]
+            }
+        ]
+    }
