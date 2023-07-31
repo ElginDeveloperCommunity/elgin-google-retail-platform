@@ -8,4 +8,4 @@
 ## Exemplos
 
 [Exemplo com DLL](./Exemplo_Python/exemplo.py) </br>
-[Exemplo com AAR]('./Exemplo Android/app/src/main/java/br/com/elgin/testnapp/MainActivity.java')
+[Exemplo com AAR]('./Exemplo_Android/app/src/main/java/br/com/elgin/testnapp/MainActivity.java')
